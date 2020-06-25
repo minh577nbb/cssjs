@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://www.facebook.com/%C4%90%E1%BA%A5t-Xanh-Group-106716874369594/';
+	var url_popup = 'https://www.facebook.com/Batdongsangiatotvensaigon/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
